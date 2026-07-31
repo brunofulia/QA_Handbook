@@ -136,32 +136,32 @@ graph TD
 
 ### 12.5.2 Universal Defect Report & Impact Assessment Blueprint
 
-> **Central Template:** [View BUG_REPORT_TEMPLATE.md](../03-Bug-Reports/BUG_REPORT_TEMPLATE.md)
+> **Central Template:** [View BUG_REPORT_TEMPLATE.md](03-Bug-Reports/BUG_REPORT_TEMPLATE.md)
 
 ### 12.5.3 Universal Quality Status Report & Release Advisory Blueprint
 
-> **Central Template:** [View QE_QUALITY_STATUS_REPORT_TEMPLATE.md](../10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md)
+> **Central Template:** [View QE_QUALITY_STATUS_REPORT_TEMPLATE.md](10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md)
 
 ### 12.5.4 Test Data Management Plan Blueprint
 
-> **Central Template:** [View TEST_DATA_MANAGEMENT_PLAN.md](../07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md)
+> **Central Template:** [View TEST_DATA_MANAGEMENT_PLAN.md](07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md)
 
 ### 12.5.5 Exploratory Testing Charter Blueprint
 
-> **Central Template:** [View EXPLORATORY_TESTING_CHARTER.md](../02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md)
+> **Central Template:** [View EXPLORATORY_TESTING_CHARTER.md](02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md)
 
 ### 12.5.6 AI System Evaluation Report Blueprint
 
-> **Central Template:** [View AI_SYSTEM_EVALUATION_REPORT.md](../06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md)
+> **Central Template:** [View AI_SYSTEM_EVALUATION_REPORT.md](06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md)
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Definition of quality gates and risk prioritization).
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Creation standard and traceability of test scenarios).
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) (Lifecycle, taxonomy, and severity matrix for failures).
-- [06 - AI Testing](../06-AI-Testing/06 - AI Testing.md) (Quality metrics, hallucinations, and evaluation in artificial intelligence systems).
-- [07 - SQL for QA](../07-SQL-for-QA/07 - SQL for QA.md) (Persistence validation and personal data masking).
-- [08 - Jira-Xray](../08-Jira-Xray/08 - Jira-Xray.md) (ALM entities setup and traceability).
-- [09 - Test Automation](../09-Test-Automation/09 - Test Automation.md) (Automation design patterns, POM, and fixtures).
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Mathematical formulations, thresholds, and Release Advisory governance).
-- [11 - Agile ISTQB Governance Standard](../11-Agile-ISTQB-Governance/11 - Agile ISTQB Governance Standard.md) (Fundamental testing principles and agile traceability).
+- [01 - Test Strategy](01-Test-Strategy/01 - Test Strategy.md) (Definition of quality gates and risk prioritization).
+- [02 - Test Cases](02-Test-Cases/02 - Test Cases.md) (Creation standard and traceability of test scenarios).
+- [03 - Bug Reports](03-Bug-Reports/03 - Bug Reports.md) (Lifecycle, taxonomy, and severity matrix for failures).
+- [06 - AI Testing](06-AI-Testing/06 - AI Testing.md) (Quality metrics, hallucinations, and evaluation in artificial intelligence systems).
+- [07 - SQL for QA](07-SQL-for-QA/07 - SQL for QA.md) (Persistence validation and personal data masking).
+- [08 - Jira-Xray](08-Jira-Xray/08 - Jira-Xray.md) (ALM entities setup and traceability).
+- [09 - Test Automation](09-Test-Automation/09 - Test Automation.md) (Automation design patterns, POM, and fixtures).
+- [10 - QA Metrics - KPIs](10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Mathematical formulations, thresholds, and Release Advisory governance).
+- [11 - Agile ISTQB Governance Standard](11-Agile-ISTQB-Governance/11 - Agile ISTQB Governance Standard.md) (Fundamental testing principles and agile traceability).

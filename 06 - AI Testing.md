@@ -284,27 +284,27 @@ A maximum Drift Threshold of **$5\%$** is established in evaluation metrics betw
 
 ### 6.10.1 Template 01: RAG Evaluation, Security, and AI Schemas Scenario
 
-> **Central Template:** [View TC_AI_RAG_SAFETY_EVAL_REUSABLE.md](../12-Templates/06-AI-Testing/TC_AI_RAG_SAFETY_EVAL_REUSABLE.md)
+> **Central Template:** [View TC_AI_RAG_SAFETY_EVAL_REUSABLE.md](12-Templates/06-AI-Testing/TC_AI_RAG_SAFETY_EVAL_REUSABLE.md)
 
 ### 6.10.2 Template 02: YAML Evaluation Profile Specification
 
-> **Central Template:** [View CUSTOMER_SUPPORT_GDPR_TEMPLATE.md](../12-Templates/06-AI-Testing/CUSTOMER_SUPPORT_GDPR_TEMPLATE.md)
+> **Central Template:** [View CUSTOMER_SUPPORT_GDPR_TEMPLATE.md](12-Templates/06-AI-Testing/CUSTOMER_SUPPORT_GDPR_TEMPLATE.md)
 
 ### 6.10.3 Template 03: Golden Dataset Entry Blueprint
 
-> **Central Template:** [View GOLDEN_DATASET_ENTRY_TEMPLATE.md](../12-Templates/06-AI-Testing/GOLDEN_DATASET_ENTRY_TEMPLATE.md)
+> **Central Template:** [View GOLDEN_DATASET_ENTRY_TEMPLATE.md](12-Templates/06-AI-Testing/GOLDEN_DATASET_ENTRY_TEMPLATE.md)
 
 ### 6.10.4 Template 04: AI System Evaluation Report
 
-> **Central Template:** [View AI_SYSTEM_EVALUATION_REPORT.md](../12-Templates/06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md)
+> **Central Template:** [View AI_SYSTEM_EVALUATION_REPORT.md](12-Templates/06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md)
 
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (General strategy and risk model)
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Test scenario design)
-- [04 - Mobile Testing](../04-Mobile-Testing/04 - Mobile Testing.md) (Validation of AI functionalities in mobile clients)
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md) (REST/JSON contract validation)
-- [07 - SQL for QA](../07-SQL-for-QA/07 - SQL for QA.md) (Source data quality and integrity)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Integration of corporate indicators)
-- [12 - Templates](../12-Templates/12 - Templates.md) (Centralized reusable templates library)
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (General strategy and risk model)
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Test scenario design)
+- [04 - Mobile Testing](04%20-%20Mobile%20Testing.md) (Validation of AI functionalities in mobile clients)
+- [05 - API Testing](05%20-%20API%20Testing.md) (REST/JSON contract validation)
+- [07 - SQL for QA](07%20-%20SQL%20for%20QA.md) (Source data quality and integrity)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Integration of corporate indicators)
+- [12 - Templates](12-Templates/12 - Templates.md) (Centralized reusable templates library)

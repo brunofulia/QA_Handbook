@@ -270,21 +270,21 @@ $$\text{ETE} = \text{Execution End Timestamp} - \text{Execution Start Timestamp}
 ### 9.9.1 Blueprint 01: Playwright Web Architecture + POM + Custom Fixtures + Accessibility (Axe-core)
 
 
-> **Central Template:** [View PLAYWRIGHT_WEB_ARCHITECTURE.md](../12-Templates/09-Test-Automation/PLAYWRIGHT_WEB_ARCHITECTURE.md)
+> **Central Template:** [View PLAYWRIGHT_WEB_ARCHITECTURE.md](12-Templates/09-Test-Automation/PLAYWRIGHT_WEB_ARCHITECTURE.md)
 
 ### 9.9.2 Blueprint 02: Integrated Parallel Execution, Sharding, and Report Merge Pipeline in GitHub Actions
 
-> **Central Template:** [View TEST_AUTOMATION_CI_PIPELINE.md](../12-Templates/09-Test-Automation/TEST_AUTOMATION_CI_PIPELINE.md)
+> **Central Template:** [View TEST_AUTOMATION_CI_PIPELINE.md](12-Templates/09-Test-Automation/TEST_AUTOMATION_CI_PIPELINE.md)
 
 ## 9.10 Traceability and Relationships with Other Chapters
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) Definition of test levels, automation pyramid, CI/CD Quality Gates, and environment matrix.
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) Design criteria, test data, and derivation of scenarios into automation scripts.
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) Classification and reporting of defects detected by automated executions and Flaky Tests management.
-- [04 - Mobile Testing](../04-Mobile-Testing/04 - Mobile Testing.md) Hybrid mobile automation strategy (Maestro + Appium 2 + ADB Service).
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md) Automation strategies at the contract level and fallback API integration.
-- [07 - SQL for QA](../07-SQL-for-QA/07 - SQL for QA.md) Database test data Teardown and persistence strategies.
-- [08 - Jira-Xray](../08-Jira-Xray/08 - Jira-Xray.md) Automated synchronization of execution results with the requirements traceability matrix.
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) Corporate automation coverage, pass rate, and execution speed indicators.
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) Definition of test levels, automation pyramid, CI/CD Quality Gates, and environment matrix.
+- [02 - Test Cases](02%20-%20Test%20Cases.md) Design criteria, test data, and derivation of scenarios into automation scripts.
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) Classification and reporting of defects detected by automated executions and Flaky Tests management.
+- [04 - Mobile Testing](04%20-%20Mobile%20Testing.md) Hybrid mobile automation strategy (Maestro + Appium 2 + ADB Service).
+- [05 - API Testing](05%20-%20API%20Testing.md) Automation strategies at the contract level and fallback API integration.
+- [07 - SQL for QA](07%20-%20SQL%20for%20QA.md) Database test data Teardown and persistence strategies.
+- [08 - Jira-Xray](08%20-%20Jira-Xray.md) Automated synchronization of execution results with the requirements traceability matrix.
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) Corporate automation coverage, pass rate, and execution speed indicators.

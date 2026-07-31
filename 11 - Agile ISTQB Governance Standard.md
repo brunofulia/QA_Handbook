@@ -149,13 +149,13 @@ The matrix represents the relationship between the probability of occurrence and
 
 - **Objective:** Ensure bidirectional traceability between the business rule, the design technique used, the ISTQB test level, and the automated executable.
 
-> **Central Template:** [View ISTQB_AGILE_TRACEABILITY_MATRIX.md](../12-Templates/11-Agile-ISTQB-Governance/ISTQB_AGILE_TRACEABILITY_MATRIX.md)
+> **Central Template:** [View ISTQB_AGILE_TRACEABILITY_MATRIX.md](12-Templates/11-Agile-ISTQB-Governance/ISTQB_AGILE_TRACEABILITY_MATRIX.md)
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Entry and exit criteria, quality gates, and overall risk model).
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Formal standards for test scenario design).
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) (Severity/priority classification and defect lifecycle).
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md) (Integration testing at the contract and interface level).
-- [08 - Jira-Xray](../08-Jira-Xray/08 - Jira-Xray.md) (Bidirectional requirement traceability and software lifecycle synchronization).
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Defect Removal Efficiency (DRE) indicators and production leakage rates).
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Entry and exit criteria, quality gates, and overall risk model).
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Formal standards for test scenario design).
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) (Severity/priority classification and defect lifecycle).
+- [05 - API Testing](05%20-%20API%20Testing.md) (Integration testing at the contract and interface level).
+- [08 - Jira-Xray](08%20-%20Jira-Xray.md) (Bidirectional requirement traceability and software lifecycle synchronization).
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Defect Removal Efficiency (DRE) indicators and production leakage rates).

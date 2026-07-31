@@ -41,17 +41,17 @@ The repository is formally organized into a modular structure of 12 technical re
 
 ```
 QA-Handbook/
-├── 01-Test-Strategy/                     # Corporate quality strategy, risk model, and Quality Gates
-├── 02-Test-Cases/                        # Scenario design methodology, atomicity, and invariants
-├── 03-Bug-Reports/                       # Defect governance, severity vs priority matrix, and RCA
-├── 04-Mobile-Testing/                    # Testing in mobile ecosystems (Android/iOS), network, and resilience
-├── 05-API-Testing/                       # REST contract validation, RBAC, BOLA, and interface security
-├── 06-AI-Testing/                        # AI evaluation, RAG architectures, hallucinations, and Guardrails
-├── 07-SQL-for-QA/                        # Persistence validation, SQL referential integrity, and Data Masking
-├── 08-Jira-Xray/                         # End-to-end ALM traceability, audit JQL, and story coverage
-├── 09-Test-Automation/                   # Automation architecture (POM, Fixtures, Sharding, locators)
-├── 10-QA-Metrics-KPIs/                   # Quantitative indicators, DRE, Defect Leakage, and Release Advisory
-├── 11-Agile-ISTQB-Governance/            # Process alignment under ISTQB standards adapted for agile environments
+├── 01 - Test Strategy.md                 # Corporate quality strategy, risk model, and Quality Gates
+├── 02 - Test Cases.md                    # Scenario design methodology, atomicity, and invariants
+├── 03 - Bug Reports.md                   # Defect governance, severity vs priority matrix, and RCA
+├── 04 - Mobile Testing.md                # Testing in mobile ecosystems (Android/iOS), network, and resilience
+├── 05 - API Testing.md                   # REST contract validation, RBAC, BOLA, and interface security
+├── 06 - AI Testing.md                    # AI evaluation, RAG architectures, hallucinations, and Guardrails
+├── 07 - SQL for QA.md                    # Persistence validation, SQL referential integrity, and Data Masking
+├── 08 - Jira-Xray.md                     # End-to-end ALM traceability, audit JQL, and story coverage
+├── 09 - Test Automation.md               # Automation architecture (POM, Fixtures, Sharding, locators)
+├── 10 - QA Metrics - KPIs.md             # Quantitative indicators, DRE, Defect Leakage, and Release Advisory
+├── 11 - Agile ISTQB Governance Standard.md # Process alignment under ISTQB standards adapted for agile environments
 └── 12-Templates/                         # Master catalog of documentation blueprints and technical instantiation
 ```
 

@@ -509,7 +509,7 @@ Any implementation of a mobile automation strategy **MUST** be documented using 
 
 #### Normative Template: ADR-001 — Hybrid Mobile Automation Strategy
 
-> **Central Template:** [View ADR-001-HYBRID_MOBILE.md](../12-Templates/04-Mobile-Testing/ADR-001-HYBRID_MOBILE.md)
+> **Central Template:** [View ADR-001-HYBRID_MOBILE.md](12-Templates/04-Mobile-Testing/ADR-001-HYBRID_MOBILE.md)
 
 ---
 
@@ -529,7 +529,7 @@ Test data management in mobile environments **MUST** guarantee isolation between
 
 ### 4.12.1 Template 01: Mobile Test Scenario for Network and Battery Interruptions
 
-> **Central Template:** [View TC_MOB_RESILIENCE_REUSABLE.md](../12-Templates/04-Mobile-Testing/TC_MOB_RESILIENCE_REUSABLE.md)
+> **Central Template:** [View TC_MOB_RESILIENCE_REUSABLE.md](12-Templates/04-Mobile-Testing/TC_MOB_RESILIENCE_REUSABLE.md)
 
 - **Objective:** Validate view rehydration and transactional resilience after network loss and sleep mode.
 
@@ -552,9 +552,9 @@ Before authorizing a release to production, the application **MUST** strictly co
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md): Global strategy, Quality Gates, and deliverable risk model.
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md): Structured test case methodology and design.
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md): Severity, priority, and evidence collection criteria for defects.
-- [06 - AI Testing](../06-AI-Testing/06 - AI Testing.md): Validation methodologies for AI models, RAG, and Guardrails.
-- [09 - Test Automation](../09-Test-Automation/09 - Test Automation.md): Automation design patterns (POM, Fixtures, Locators, Factory).
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md): Quality indicators, performance metrics, and Go/No-Go criteria.
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md): Global strategy, Quality Gates, and deliverable risk model.
+- [02 - Test Cases](02%20-%20Test%20Cases.md): Structured test case methodology and design.
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md): Severity, priority, and evidence collection criteria for defects.
+- [06 - AI Testing](06%20-%20AI%20Testing.md): Validation methodologies for AI models, RAG, and Guardrails.
+- [09 - Test Automation](09%20-%20Test%20Automation.md): Automation design patterns (POM, Fixtures, Locators, Factory).
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md): Quality indicators, performance metrics, and Go/No-Go criteria.

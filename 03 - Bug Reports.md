@@ -335,11 +335,11 @@ To guarantee that defect reporting contributes to the continuous improvement of 
 
 ## 3.13 Bug Report Blueprint
 
-> **Central Template:** [View BUG_REPORT_TEMPLATE.md](../12-Templates/03-Bug-Reports/BUG_REPORT_TEMPLATE.md)
+> **Central Template:** [View BUG_REPORT_TEMPLATE.md](12-Templates/03-Bug-Reports/BUG_REPORT_TEMPLATE.md)
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Strategy and risk management)
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Test design and traceability)
-- [08 - Jira-Xray](../08-Jira-Xray/08 - Jira-Xray.md) (Traceability management and coverage in ALM tools)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Quantitative metrics of leakage and defect removal)
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Strategy and risk management)
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Test design and traceability)
+- [08 - Jira-Xray](08%20-%20Jira-Xray.md) (Traceability management and coverage in ALM tools)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Quantitative metrics of leakage and defect removal)

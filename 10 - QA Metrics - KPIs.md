@@ -284,20 +284,20 @@ In exceptional business scenarios where a release must be executed under a _GO W
 
 ### 10.10.1 Template 01: Executive Quality Status Report and KPI Dashboard
 
-- > **Central Template:** [View QE_QUALITY_STATUS_REPORT_TEMPLATE.md](../12-Templates/10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md)
+- > **Central Template:** [View QE_QUALITY_STATUS_REPORT_TEMPLATE.md](12-Templates/10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md)
 
 ### 10.10.2 Template 02: Quality Risk Acceptance Record Template
 
-- > **Central Template:** [View RISK_ACCEPTANCE_RECORD_TEMPLATE.md](../12-Templates/10-QA-Metrics-KPIs/RISK_ACCEPTANCE_RECORD_TEMPLATE.md)
+- > **Central Template:** [View RISK_ACCEPTANCE_RECORD_TEMPLATE.md](12-Templates/10-QA-Metrics-KPIs/RISK_ACCEPTANCE_RECORD_TEMPLATE.md)
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Global strategy, quality gates, and deliverable risk model).
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Design methodology and test scenario traceability).
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) (Severity/priority classification and defect lifecycle).
-- [04 - Mobile Testing](../04-Mobile-Testing/04 - Mobile Testing.md) (Environment strategy and resilience testing in client apps).
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md) (Contract validation and unexpected failure metrics in APIs).
-- [06 - AI Testing](../06-AI-Testing/06 - AI Testing.md) (Quality metrics, hallucination, and evaluation in intelligent systems).
-- [07 - SQL for QA](../07-SQL-for-QA/07 - SQL for QA.md) (Persistence validation and data reconciliation metrics).
-- [08 - Jira-Xray](../08-Jira-Xray/08 - Jira-Xray.md) (Requirements coverage setup and ALM sync).
-- [09 - Test Automation](../09-Test-Automation/09 - Test Automation.md) (Design patterns, flow isolation, and Flaky Tests management).
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Global strategy, quality gates, and deliverable risk model).
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Design methodology and test scenario traceability).
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) (Severity/priority classification and defect lifecycle).
+- [04 - Mobile Testing](04%20-%20Mobile%20Testing.md) (Environment strategy and resilience testing in client apps).
+- [05 - API Testing](05%20-%20API%20Testing.md) (Contract validation and unexpected failure metrics in APIs).
+- [06 - AI Testing](06%20-%20AI%20Testing.md) (Quality metrics, hallucination, and evaluation in intelligent systems).
+- [07 - SQL for QA](07%20-%20SQL%20for%20QA.md) (Persistence validation and data reconciliation metrics).
+- [08 - Jira-Xray](08%20-%20Jira-Xray.md) (Requirements coverage setup and ALM sync).
+- [09 - Test Automation](09%20-%20Test%20Automation.md) (Design patterns, flow isolation, and Flaky Tests management).

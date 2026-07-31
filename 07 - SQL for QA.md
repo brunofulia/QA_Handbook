@@ -201,14 +201,14 @@ $$\text{DDER} = \left( \frac{\text{Data Defects in Production}}{\text{Total Dete
 
 ### 7.8.1 Template 01: SQL Referential and Transactional Integrity Test Scenario
 
-> **Central Template:** [View TC_SQL_INTEGRITY_REUSABLE.md](../12-Templates/07-SQL-for-QA/TC_SQL_INTEGRITY_REUSABLE.md)
+> **Central Template:** [View TC_SQL_INTEGRITY_REUSABLE.md](12-Templates/07-SQL-for-QA/TC_SQL_INTEGRITY_REUSABLE.md)
 
 ---
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Test strategy and risk model)
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Test case design methodology)
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) (Defect management and reporting)
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md) (Contract testing and API integration)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Quality and performance metrics)
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Test strategy and risk model)
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Test case design methodology)
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) (Defect management and reporting)
+- [05 - API Testing](05%20-%20API%20Testing.md) (Contract testing and API integration)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Quality and performance metrics)

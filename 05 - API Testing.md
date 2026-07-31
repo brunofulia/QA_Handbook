@@ -235,12 +235,12 @@ $$\text{ABFSR} = \left( \frac{\text{Successful Business API Flows}}{\text{Total 
 
 ### 5.9.1 Template 01: API RBAC/BOLA Security and Contract Test Scenario
 
-> **Central Template:** [View TC_API_BOLA_SECURITY_REUSABLE.md](../12-Templates/05-API-Testing/TC_API_BOLA_SECURITY_REUSABLE.md)
+> **Central Template:** [View TC_API_BOLA_SECURITY_REUSABLE.md](12-Templates/05-API-Testing/TC_API_BOLA_SECURITY_REUSABLE.md)
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Strategy and risk management)
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Test case design methodology)
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) (Defect management and reporting)
-- [09 - Test Automation](../09-Test-Automation/09 - Test Automation.md) (Automation architecture and design patterns)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Quantifiable quality and performance metrics)
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Strategy and risk management)
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Test case design methodology)
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) (Defect management and reporting)
+- [09 - Test Automation](09%20-%20Test%20Automation.md) (Automation architecture and design patterns)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Quantifiable quality and performance metrics)

@@ -228,18 +228,18 @@ issuetype = Bug AND status NOT IN (Closed, Resolved) AND issueFunction in linked
 
 ### 8.9.1 Template 01: Bash Script for Importing JUnit Results to Xray Cloud with Retries
 
-> **Central Template:** [View XRAY_JUNIT_IMPORT.md](../12-Templates/08-Jira-Xray/XRAY_JUNIT_IMPORT.md)
+> **Central Template:** [View XRAY_JUNIT_IMPORT.md](12-Templates/08-Jira-Xray/XRAY_JUNIT_IMPORT.md)
 
 ### 8.9.2 Template 02: GitHub Actions Workflow Configuration for Automatic Synchronization with Xray
 
-> **Central Template:** [View XRAY_SYNC_WORKFLOW.md](../12-Templates/08-Jira-Xray/XRAY_SYNC_WORKFLOW.md)
+> **Central Template:** [View XRAY_SYNC_WORKFLOW.md](12-Templates/08-Jira-Xray/XRAY_SYNC_WORKFLOW.md)
 
 ---
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Entry/exit criteria and quality gates)
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Design standards and test case metadata)
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md) (Lifecycle and defect management)
-- [09 - Test Automation](../09-Test-Automation/09 - Test Automation.md) (Automation integration and reporting)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Corporate quality metrics and coverage)
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Entry/exit criteria and quality gates)
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Design standards and test case metadata)
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) (Lifecycle and defect management)
+- [09 - Test Automation](09%20-%20Test%20Automation.md) (Automation integration and reporting)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Corporate quality metrics and coverage)

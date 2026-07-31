@@ -155,11 +155,11 @@ Before moving a test case status to *Approved*, a peer engineer *MUST* validate 
 
 ### 2.9.1 Template 01: Web Functional Scenario
 
-> **Central Template:** [View TC_PAY_CHECKOUT_FUNC_REUSABLE.md](../12-Templates/02-Test-Cases/TC_PAY_CHECKOUT_FUNC_REUSABLE.md)
+> **Central Template:** [View TC_PAY_CHECKOUT_FUNC_REUSABLE.md](12-Templates/02-Test-Cases/TC_PAY_CHECKOUT_FUNC_REUSABLE.md)
 
 ### 2.9.2 Template 02: Compliance & Security Scenario
 
-> **Central Template:** [View TC_IAM_PII_COMP_REUSABLE.md](../12-Templates/02-Test-Cases/TC_IAM_PII_COMP_REUSABLE.md)
+> **Central Template:** [View TC_IAM_PII_COMP_REUSABLE.md](12-Templates/02-Test-Cases/TC_IAM_PII_COMP_REUSABLE.md)
 
 ---
 
@@ -178,8 +178,8 @@ graph TD
 ```
 
 > [!NOTE]
-> **Traceability Note:** Metrics relating to defect density, bug removal efficiency, and defect leakage rates to production (Defect Leakage Rate, DRE) are defined quantitatively in [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md).
+> **Traceability Note:** Metrics relating to defect density, bug removal efficiency, and defect leakage rates to production (Defect Leakage Rate, DRE) are defined quantitatively in [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md).
 
 ## References
 
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md)

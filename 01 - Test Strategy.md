@@ -143,12 +143,12 @@ flowchart LR
 
 ### 1.4.1 Template 01: Feature / Release Scope Test Strategy Document
 
-> **Central Template:** [View FEATURE_TEST_STRATEGY_TEMPLATE.md](../12-Templates/01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md)
+> **Central Template:** [View FEATURE_TEST_STRATEGY_TEMPLATE.md](12-Templates/01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md)
 
 ## References
 
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md)
-- [03 - Bug Reports](../03-Bug-Reports/03 - Bug Reports.md)
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md)
-- [09 - Test Automation](../09-Test-Automation/09 - Test Automation.md)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md)
+- [02 - Test Cases](02%20-%20Test%20Cases.md)
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md)
+- [05 - API Testing](05%20-%20API%20Testing.md)
+- [09 - Test Automation](09%20-%20Test%20Automation.md)
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md)
