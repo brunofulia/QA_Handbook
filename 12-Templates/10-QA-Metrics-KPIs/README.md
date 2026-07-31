@@ -1,3 +1,3 @@
 # 10-QA-Metrics-KPIs Templates
 
-Este directorio contiene las plantillas para 10-QA-Metrics-KPIs.
+This directory contains the central templates and blueprints for the 10-QA-Metrics-KPIs domain.

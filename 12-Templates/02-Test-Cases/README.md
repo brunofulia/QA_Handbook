@@ -1,3 +1,3 @@
 # 02-Test-Cases Templates
 
-Este directorio contiene las plantillas para 02-Test-Cases.
+This directory contains the central templates and blueprints for the 02-Test-Cases domain.

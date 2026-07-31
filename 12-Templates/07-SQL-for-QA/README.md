@@ -1,3 +1,3 @@
 # 07-SQL-for-QA Templates
 
-Este directorio contiene las plantillas para 07-SQL-for-QA.
+This directory contains the central templates and blueprints for the 07-SQL-for-QA domain.

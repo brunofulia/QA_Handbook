@@ -1,3 +1,3 @@
 # 05-API-Testing Templates
 
-Este directorio contiene las plantillas para 05-API-Testing.
+This directory contains the central templates and blueprints for the 05-API-Testing domain.

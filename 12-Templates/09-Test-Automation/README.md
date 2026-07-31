@@ -1,3 +1,3 @@
 # 09-Test-Automation Templates
 
-Este directorio contiene las plantillas para 09-Test-Automation.
+This directory contains the central templates and blueprints for the 09-Test-Automation domain.

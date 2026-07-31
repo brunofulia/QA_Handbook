@@ -1,3 +1,3 @@
 # 08-Jira-Xray Templates
 
-Este directorio contiene las plantillas para 08-Jira-Xray.
+This directory contains the central templates and blueprints for the 08-Jira-Xray domain.

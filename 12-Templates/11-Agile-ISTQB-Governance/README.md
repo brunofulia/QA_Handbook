@@ -1,3 +1,3 @@
 # 11-Agile-ISTQB-Governance Templates
 
-Este directorio contiene las plantillas para 11-Agile-ISTQB-Governance.
+This directory contains the central templates and blueprints for the 11-Agile-ISTQB-Governance domain.

@@ -1,3 +1,3 @@
 # 03-Bug-Reports Templates
 
-Este directorio contiene las plantillas para 03-Bug-Reports.
+This directory contains the central templates and blueprints for the 03-Bug-Reports domain.

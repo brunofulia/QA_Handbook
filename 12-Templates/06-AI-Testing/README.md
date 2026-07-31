@@ -1,3 +1,3 @@
 # 06-AI-Testing Templates
 
-Este directorio contiene las plantillas para 06-AI-Testing.
+This directory contains the central templates and blueprints for the 06-AI-Testing domain.

@@ -1,3 +1,3 @@
 # 01-Test-Strategy Templates
 
-Este directorio contiene las plantillas para 01-Test-Strategy.
+This directory contains the central templates and blueprints for the 01-Test-Strategy domain.
