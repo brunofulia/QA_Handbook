@@ -301,10 +301,10 @@ A maximum Drift Threshold of **$5\%$** is established in evaluation metrics betw
 
 ## References
 
-- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (Estrategia general y modelo de riesgos)
-- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Diseño de escenarios de prueba)
-- [04 - Mobile Testing](../04-Mobile-Testing/04 - Mobile Testing.md) (Validación de funcionalidades de IA en cliente móvil)
-- [05 - API Testing](../05-API-Testing/05 - API Testing.md) (Validación de contratos REST/JSON)
-- [07 - SQL for QA](../07-SQL-for-QA/07 - SQL for QA.md) (Calidad e integridad de datos de origen)
-- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Integración de indicadores corporativos)
-- [12 - Templates](../12-Templates/12 - Templates.md) (Biblioteca central de plantillas reutilizables)
+- [01 - Test Strategy](../01-Test-Strategy/01 - Test Strategy.md) (General strategy and risk model)
+- [02 - Test Cases](../02-Test-Cases/02 - Test Cases.md) (Test scenario design)
+- [04 - Mobile Testing](../04-Mobile-Testing/04 - Mobile Testing.md) (Validation of AI functionalities in mobile clients)
+- [05 - API Testing](../05-API-Testing/05 - API Testing.md) (REST/JSON contract validation)
+- [07 - SQL for QA](../07-SQL-for-QA/07 - SQL for QA.md) (Source data quality and integrity)
+- [10 - QA Metrics - KPIs](../10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Integration of corporate indicators)
+- [12 - Templates](../12-Templates/12 - Templates.md) (Centralized reusable templates library)
