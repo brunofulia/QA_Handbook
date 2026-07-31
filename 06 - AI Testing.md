@@ -307,4 +307,4 @@ A maximum Drift Threshold of **$5\%$** is established in evaluation metrics betw
 - [05 - API Testing](05%20-%20API%20Testing.md) (REST/JSON contract validation)
 - [07 - SQL for QA](07%20-%20SQL%20for%20QA.md) (Source data quality and integrity)
 - [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Integration of corporate indicators)
-- [12 - Templates](12-Templates/12 - Templates.md) (Centralized reusable templates library)
+- [12 - Templates](12-Templates/12%20-%20Templates.md) (Centralized reusable templates library)

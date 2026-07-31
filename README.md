@@ -159,13 +159,13 @@ Repository changes are managed centrally in the `VERSION` file and tracked in `C
 
 ## References & Cross References
 
-* **Chapter 01: Quality Engineering Strategy & Delivery Risk Model** (`QA-STAND-01-STRATEGY`)
-* **Chapter 02: Test Case Design Methodology & Engineering Standard** (`QA-STAND-02-DESIGN`)
-* **Chapter 03: Bug Report Engineering Standard & Governance** (`QA-STAND-03-BUG-REPORTS`)
-* **Chapter 06: AI Systems, RAG Evaluation & Agentic Testing Standard** (`QA-STAND-06-AI-TESTING`)
-* **Chapter 07: SQL & Data Integrity Testing Strategy** (`QA-STAND-07-SQL`)
-* **Chapter 08: Jira & Xray Integration for QA Governance & Traceability** (`QA-STAND-08-JIRA-XRAY`)
-* **Chapter 09: Test Automation Architecture & Software Design** (`QA-STAND-09-AUTO-ARCH`)
-* **Chapter 10: QA Metrics, KPIs & Delivery Quality Governance** (`QA-STAND-10-METRICS`)
-* **Chapter 11: Agile ISTQB Governance Standard** (`QA-STAND-11-ISTQB`)
-* **Chapter 12: Master Blueprint Index & Asset Governance** (`QA-STAND-12-TEMPLATES`)
+* [**Chapter 01: Quality Engineering Strategy & Delivery Risk Model**](01%20-%20Test%20Strategy.md) (`QA-STAND-01-STRATEGY`)
+* [**Chapter 02: Test Case Design Methodology & Engineering Standard**](02%20-%20Test%20Cases.md) (`QA-STAND-02-DESIGN`)
+* [**Chapter 03: Bug Report Engineering Standard & Governance**](03%20-%20Bug%20Reports.md) (`QA-STAND-03-BUG-REPORTS`)
+* [**Chapter 06: AI Systems, RAG Evaluation & Agentic Testing Standard**](06%20-%20AI%20Testing.md) (`QA-STAND-06-AI-TESTING`)
+* [**Chapter 07: SQL & Data Integrity Testing Strategy**](07%20-%20SQL%20for%20QA.md) (`QA-STAND-07-SQL`)
+* [**Chapter 08: Jira & Xray Integration for QA Governance & Traceability**](08%20-%20Jira-Xray.md) (`QA-STAND-08-JIRA-XRAY`)
+* [**Chapter 09: Test Automation Architecture & Software Design**](09%20-%20Test%20Automation.md) (`QA-STAND-09-AUTO-ARCH`)
+* [**Chapter 10: QA Metrics, KPIs & Delivery Quality Governance**](10%20-%20QA%20Metrics%20-%20KPIs.md) (`QA-STAND-10-METRICS`)
+* [**Chapter 11: Agile ISTQB Governance Standard**](11%20-%20Agile%20ISTQB%20Governance%20Standard.md) (`QA-STAND-11-ISTQB`)
+* [**Chapter 12: Master Blueprint Index & Asset Governance**](12-Templates/12%20-%20Templates.md) (`QA-STAND-12-TEMPLATES`)

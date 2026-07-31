@@ -116,7 +116,7 @@ flowchart TD
     
 - **Formula:**
     
-    $$\text{Risk-Weighted Automation Coverage (Tier } n\text{) (\%)} = \left( \frac{TC_{\text{auto\_Tier\_}n}}{TC_{\text{total\_regression\_Tier\_}n}} \right) \times 100$$
+    $$\text{Risk-Weighted Automation Coverage (Tier } n\text{) (\%)} = \left( \frac{TC_{\text{auto-Tier-}n}}{TC_{\text{total-regression-Tier-}n}} \right) \times 100$$
     
 - **Measurement Objective:** Prevent the distortion of the generic coverage indicator by prioritizing critical flows over low-risk scenarios.
     
@@ -196,7 +196,7 @@ The following matrix establishes corporate metrics, their business objectives, a
 | **Product Quality** | Defect Leakage Rate | $\left( \frac{D_{\text{prod}}}{D_{\text{total}}} \right) \times 100$ | Minimize failure escape to production | $\le 2.0\%$ | $2.1\% - 5.0\%$ | $> 5.0\%$ |
 | **Product Quality** | Defect Removal Efficiency | $\left( \frac{D_{\text{pre-prod}}}{D_{\text{total}}} \right) \times 100$ | Maximize early bug containment | $\ge 95.0\%$ | $90.0\% - 94.9\%$ | $< 90.0\%$ |
 | **Automation** | Test Automation Pass Rate | $\left( \frac{TC_{\text{passed}}}{TC_{\text{executed}}} \right) \times 100$ | Ensure functional CI stability | $\ge 98.0\%$ | $95.0\% - 97.9\%$ | $< 95.0\%$ |
-| **Automation** | Risk-Weighted Auto (Tier 1) | $\left( \frac{TC_{\text{auto\_T1}}}{TC_{\text{total\_T1}}} \right) \times 100$ | Automate 100% of the critical core | $100\%$ | $90.0\% - 99.9\%$ | $< 90.0\%$ |
+| **Automation** | Risk-Weighted Auto (Tier 1) | $\left( \frac{TC_{\text{auto-T1}}}{TC_{\text{total-T1}}} \right) \times 100$ | Automate 100% of the critical core | $100\%$ | $90.0\% - 99.9\%$ | $< 90.0\%$ |
 | **Suite Resilience** | Flakiness Index | $\left( \frac{E_{\text{inconsistent}}}{E_{\text{total}}} \right) \times 100$ | Maintain test confidence | $\le 1.0\%$ | $1.1\% - 2.0\%$ | $> 2.0\%$ |
 | **ALM Governance** | Requirement Coverage (Tier 1) | $\left( \frac{R_{\text{covered}}}{R_{\text{total}}} \right) \times 100$ | Ensure total business traceability | $100\%$ | N/A | $< 100\%$ |
 | **Engineering / DORA** | Change Failure Rate (CFR) | $\left( \frac{\text{Failures}}{\text{Deployments}} \right) \times 100$ | Reduce release operational impact | $\le 5.0\%$ | $5.1\% - 10.0\%$ | $> 10.0\%$ |
