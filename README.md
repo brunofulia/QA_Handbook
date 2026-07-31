@@ -99,7 +99,7 @@ Any project adopting this framework MUST comply with the following technical inv
 - Mathematical formulations within the framework MUST be expressed using formal LaTeX notation:
     
 
-$$\text{DRE (\%)} = \left( \frac{D_{\text{pre\_prod}}}{D_{\text{pre\_prod}} + D_{\text{prod}}} \right) \times 100$$
+$$\text{DRE (\%)} = \left( \frac{D_{\text{pre-prod}}}{D_{\text{pre-prod}} + D_{\text{prod}}} \right) \times 100$$
 
 ## 5. Corporate Quality Gates
 

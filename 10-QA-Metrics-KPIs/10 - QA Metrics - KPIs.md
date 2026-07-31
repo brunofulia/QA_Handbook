@@ -50,13 +50,13 @@ flowchart TD
     
 - **Formula:**
     
-    $$\text{Defect Leakage Rate (\%)} = \left( \frac{D_{\text{prod}}}{D_{\text{pre\_prod}} + D_{\text{prod}}} \right) \times 100$$
+    $$\text{Defect Leakage Rate (\%)} = \left( \frac{D_{\text{prod}}}{D_{\text{pre-prod}} + D_{\text{prod}}} \right) \times 100$$
     
     Where:
     
     - $D_{\text{prod}}$: Defects reported and confirmed in Production.
         
-    - $D_{\text{pre\_prod}}$: Defects detected in previous environments (QA, Staging, UAT).
+    - $D_{\text{pre-prod}}$: Defects detected in previous environments (QA, Staging, UAT).
         
 - **Measurement Objective:** Evaluate the effectiveness of the pre-deployment test harness and measure the failure escape rate into production.
     
@@ -69,7 +69,7 @@ flowchart TD
     
 - **Formula:**
     
-    $$\text{DRE (\%)} = \left( \frac{D_{\text{pre\_prod}}}{D_{\text{pre\_prod}} + D_{\text{prod}}} \right) \times 100$$
+    $$\text{DRE (\%)} = \left( \frac{D_{\text{pre-prod}}}{D_{\text{pre-prod}} + D_{\text{prod}}} \right) \times 100$$
     
 - **Measurement Objective:** Quantify the maturity of the early verification and inspection process within the organization.
     
@@ -194,7 +194,7 @@ The following matrix establishes corporate metrics, their business objectives, a
 | **Metric Category** | **KPI Name** | **Calculation Formula** | **Business Objective** | **Green Gate (Approved)** | **Yellow Gate (Accepted Risk)** | **Red Gate (Blocked)** |
 |---|---|---|---|---|---|---|
 | **Product Quality** | Defect Leakage Rate | $\left( \frac{D_{\text{prod}}}{D_{\text{total}}} \right) \times 100$ | Minimize failure escape to production | $\le 2.0\%$ | $2.1\% - 5.0\%$ | $> 5.0\%$ |
-| **Product Quality** | Defect Removal Efficiency | $\left( \frac{D_{\text{pre\_prod}}}{D_{\text{total}}} \right) \times 100$ | Maximize early bug containment | $\ge 95.0\%$ | $90.0\% - 94.9\%$ | $< 90.0\%$ |
+| **Product Quality** | Defect Removal Efficiency | $\left( \frac{D_{\text{pre-prod}}}{D_{\text{total}}} \right) \times 100$ | Maximize early bug containment | $\ge 95.0\%$ | $90.0\% - 94.9\%$ | $< 90.0\%$ |
 | **Automation** | Test Automation Pass Rate | $\left( \frac{TC_{\text{passed}}}{TC_{\text{executed}}} \right) \times 100$ | Ensure functional CI stability | $\ge 98.0\%$ | $95.0\% - 97.9\%$ | $< 95.0\%$ |
 | **Automation** | Risk-Weighted Auto (Tier 1) | $\left( \frac{TC_{\text{auto\_T1}}}{TC_{\text{total\_T1}}} \right) \times 100$ | Automate 100% of the critical core | $100\%$ | $90.0\% - 99.9\%$ | $< 90.0\%$ |
 | **Suite Resilience** | Flakiness Index | $\left( \frac{E_{\text{inconsistent}}}{E_{\text{total}}} \right) \times 100$ | Maintain test confidence | $\le 1.0\%$ | $1.1\% - 2.0\%$ | $> 2.0\%$ |

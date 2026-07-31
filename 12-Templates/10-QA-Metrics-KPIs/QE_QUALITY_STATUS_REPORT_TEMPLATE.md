@@ -17,7 +17,7 @@ updated: "2026-07-30T17:40:02"
 | Category | Metric Name | Standard Formula | Target Threshold | Actual Value | Metric Status Gate |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Product Quality** | Defect Leakage Rate | $\left( \frac{D_{\text{prod}}}{D_{\text{total}}} \right) \times 100$ | $\le 2.0\%$ | <VALUE>% | <GREEN / YELLOW / RED> |
-| **Product Quality** | Defect Removal Efficiency | $\left( \frac{D_{\text{pre\_prod}}}{D_{\text{total}}} \right) \times 100$ | $\ge 95.0\%$ | <VALUE>% | <GREEN / YELLOW / RED> |
+| **Product Quality** | Defect Removal Efficiency | $\left( \frac{D_{\text{pre-prod}}}{D_{\text{total}}} \right) \times 100$ | $\ge 95.0\%$ | <VALUE>% | <GREEN / YELLOW / RED> |
 | **Automation** | Tier 1 Pass Rate | $\left( \frac{TC_{\text{passed}}}{TC_{\text{executed}}} \right) \times 100$ | $100\%$ | <VALUE>% | <GREEN / YELLOW / RED> |
 | **Governance** | Tier 1 Coverage | $\left( \frac{R_{\text{covered}}}{R_{\text{total}}} \right) \times 100$ | $100\%$ | <VALUE>% | <GREEN / YELLOW / RED> |
 
