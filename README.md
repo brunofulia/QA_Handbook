@@ -168,4 +168,4 @@ Repository changes are managed centrally in the `VERSION` file and tracked in `C
 * [**Chapter 09: Test Automation Architecture & Software Design**](09%20-%20Test%20Automation.md) (`QA-STAND-09-AUTO-ARCH`)
 * [**Chapter 10: QA Metrics, KPIs & Delivery Quality Governance**](10%20-%20QA%20Metrics%20-%20KPIs.md) (`QA-STAND-10-METRICS`)
 * [**Chapter 11: Agile ISTQB Governance Standard**](11%20-%20Agile%20ISTQB%20Governance%20Standard.md) (`QA-STAND-11-ISTQB`)
-* [**Chapter 12: Master Blueprint Index & Asset Governance**](12-Templates/12%20-%20Templates.md) (`QA-STAND-12-TEMPLATES`)
+* [**Chapter 12: Master Blueprint Index & Asset Governance**](12%20-%20Templates.md) (`QA-STAND-12-TEMPLATES`)

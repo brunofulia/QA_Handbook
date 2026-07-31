@@ -66,27 +66,27 @@ The following matrix classifies the documentary artifacts available in the centr
 
 | **Artifact Identifier** | **Engineering Domain** | **Central File Location** | **Owner** | **Version** | **Status** | **Last Revision** | **Normative Source Chapter** |
 |---|---|---|---|---|---|---|---|
-| **BLUEPRINT-STRAT-01** | Strategy & Risk | 12-Templates/01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md | QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 01: Quality Engineering Strategy** |
-| **BLUEPRINT-TC-01** | Test Design & Exec | 12-Templates/02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md | QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 02: Test Case Design Methodology** |
-| **BLUEPRINT-TC-02** | Test Design & Exec | 12-Templates/02-Test-Cases/TC_IAM_PII_COMP_REUSABLE.md | QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 02: Test Case Design Methodology** |
-| **BLUEPRINT-TC-03** | Test Design & Exec | 12-Templates/02-Test-Cases/TC_PAY_CHECKOUT_FUNC_REUSABLE.md | QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 02: Test Case Design Methodology** |
-| **BLUEPRINT-BUG-01** | Incident Governance | 12-Templates/03-Bug-Reports/BUG_REPORT_TEMPLATE.md | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 03: Bug Report Engineering Standard** |
-| **BLUEPRINT-MOB-01** | Mobile QA | 12-Templates/04-Mobile-Testing/ADR-001-HYBRID_MOBILE.md | Mobile QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 04: Mobile App Testing Strategy** |
-| **BLUEPRINT-MOB-02** | Mobile QA | 12-Templates/04-Mobile-Testing/TC_MOB_RESILIENCE_REUSABLE.md | Mobile QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 04: Mobile App Testing Strategy** |
-| **BLUEPRINT-API-01** | API & Integration | 12-Templates/05-API-Testing/TC_API_BOLA_SECURITY_REUSABLE.md | Backend QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 05: API Testing Strategy** |
-| **BLUEPRINT-AI-01** | AI Governance | 12-Templates/06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
-| **BLUEPRINT-AI-02** | AI Governance | 12-Templates/06-AI-Testing/CUSTOMER_SUPPORT_GDPR_TEMPLATE.md | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
-| **BLUEPRINT-AI-03** | AI Governance | 12-Templates/06-AI-Testing/GOLDEN_DATASET_ENTRY_TEMPLATE.md | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
-| **BLUEPRINT-AI-04** | AI Governance | 12-Templates/06-AI-Testing/TC_AI_RAG_SAFETY_EVAL_REUSABLE.md | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
-| **BLUEPRINT-DATA-01** | Data Governance | 12-Templates/07-SQL-for-QA/TC_SQL_INTEGRITY_REUSABLE.md | Data QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 07: SQL & Data Integrity Testing** |
-| **BLUEPRINT-DATA-02** | Data Governance | 12-Templates/07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md | Data QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 07: SQL & Data Integrity Testing** |
-| **BLUEPRINT-ALM-01** | ALM Tooling | 12-Templates/08-Jira-Xray/XRAY_JUNIT_IMPORT.md | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 08: Jira & Xray Integration** |
-| **BLUEPRINT-ALM-02** | ALM Tooling | 12-Templates/08-Jira-Xray/XRAY_SYNC_WORKFLOW.md | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 08: Jira & Xray Integration** |
-| **BLUEPRINT-AUTO-01** | Test Automation | 12-Templates/09-Test-Automation/PLAYWRIGHT_WEB_ARCHITECTURE.md | SDET Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 09: Test Automation Architecture** |
-| **BLUEPRINT-AUTO-02** | Test Automation | 12-Templates/09-Test-Automation/TEST_AUTOMATION_CI_PIPELINE.md | SDET Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 09: Test Automation Architecture** |
-| **BLUEPRINT-METRIC-01** | Quality Advisory | 12-Templates/10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md | QE Manager | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 10: QA Metrics & KPIs** |
-| **BLUEPRINT-METRIC-02** | Quality Advisory | 12-Templates/10-QA-Metrics-KPIs/RISK_ACCEPTANCE_RECORD_TEMPLATE.md | QE Manager | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 10: QA Metrics & KPIs** |
-| **BLUEPRINT-GOV-01** | Agile Traceability | 12-Templates/11-Agile-ISTQB-Governance/ISTQB_AGILE_TRACEABILITY_MATRIX.md | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 11: Agile ISTQB Governance** |
+| **BLUEPRINT-STRAT-01** | Strategy & Risk | [12-Templates/01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md](12-Templates/01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md) | QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 01: Quality Engineering Strategy** |
+| **BLUEPRINT-TC-01** | Test Design & Exec | [12-Templates/02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md](12-Templates/02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md) | QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 02: Test Case Design Methodology** |
+| **BLUEPRINT-TC-02** | Test Design & Exec | [12-Templates/02-Test-Cases/TC_IAM_PII_COMP_REUSABLE.md](12-Templates/02-Test-Cases/TC_IAM_PII_COMP_REUSABLE.md) | QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 02: Test Case Design Methodology** |
+| **BLUEPRINT-TC-03** | Test Design & Exec | [12-Templates/02-Test-Cases/TC_PAY_CHECKOUT_FUNC_REUSABLE.md](12-Templates/02-Test-Cases/TC_PAY_CHECKOUT_FUNC_REUSABLE.md) | QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 02: Test Case Design Methodology** |
+| **BLUEPRINT-BUG-01** | Incident Governance | [12-Templates/03-Bug-Reports/BUG_REPORT_TEMPLATE.md](12-Templates/03-Bug-Reports/BUG_REPORT_TEMPLATE.md) | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 03: Bug Report Engineering Standard** |
+| **BLUEPRINT-MOB-01** | Mobile QA | [12-Templates/04-Mobile-Testing/ADR-001-HYBRID_MOBILE.md](12-Templates/04-Mobile-Testing/ADR-001-HYBRID_MOBILE.md) | Mobile QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 04: Mobile App Testing Strategy** |
+| **BLUEPRINT-MOB-02** | Mobile QA | [12-Templates/04-Mobile-Testing/TC_MOB_RESILIENCE_REUSABLE.md](12-Templates/04-Mobile-Testing/TC_MOB_RESILIENCE_REUSABLE.md) | Mobile QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 04: Mobile App Testing Strategy** |
+| **BLUEPRINT-API-01** | API & Integration | [12-Templates/05-API-Testing/TC_API_BOLA_SECURITY_REUSABLE.md](12-Templates/05-API-Testing/TC_API_BOLA_SECURITY_REUSABLE.md) | Backend QA Engineer | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 05: API Testing Strategy** |
+| **BLUEPRINT-AI-01** | AI Governance | [12-Templates/06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md](12-Templates/06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md) | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
+| **BLUEPRINT-AI-02** | AI Governance | [12-Templates/06-AI-Testing/CUSTOMER_SUPPORT_GDPR_TEMPLATE.md](12-Templates/06-AI-Testing/CUSTOMER_SUPPORT_GDPR_TEMPLATE.md) | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
+| **BLUEPRINT-AI-03** | AI Governance | [12-Templates/06-AI-Testing/GOLDEN_DATASET_ENTRY_TEMPLATE.md](12-Templates/06-AI-Testing/GOLDEN_DATASET_ENTRY_TEMPLATE.md) | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
+| **BLUEPRINT-AI-04** | AI Governance | [12-Templates/06-AI-Testing/TC_AI_RAG_SAFETY_EVAL_REUSABLE.md](12-Templates/06-AI-Testing/TC_AI_RAG_SAFETY_EVAL_REUSABLE.md) | AI QA Specialist | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 06: AI Systems & RAG Evaluation** |
+| **BLUEPRINT-DATA-01** | Data Governance | [12-Templates/07-SQL-for-QA/TC_SQL_INTEGRITY_REUSABLE.md](12-Templates/07-SQL-for-QA/TC_SQL_INTEGRITY_REUSABLE.md) | Data QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 07: SQL & Data Integrity Testing** |
+| **BLUEPRINT-DATA-02** | Data Governance | [12-Templates/07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md](12-Templates/07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md) | Data QA Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 07: SQL & Data Integrity Testing** |
+| **BLUEPRINT-ALM-01** | ALM Tooling | [12-Templates/08-Jira-Xray/XRAY_JUNIT_IMPORT.md](12-Templates/08-Jira-Xray/XRAY_JUNIT_IMPORT.md) | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 08: Jira & Xray Integration** |
+| **BLUEPRINT-ALM-02** | ALM Tooling | [12-Templates/08-Jira-Xray/XRAY_SYNC_WORKFLOW.md](12-Templates/08-Jira-Xray/XRAY_SYNC_WORKFLOW.md) | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 08: Jira & Xray Integration** |
+| **BLUEPRINT-AUTO-01** | Test Automation | [12-Templates/09-Test-Automation/PLAYWRIGHT_WEB_ARCHITECTURE.md](12-Templates/09-Test-Automation/PLAYWRIGHT_WEB_ARCHITECTURE.md) | SDET Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 09: Test Automation Architecture** |
+| **BLUEPRINT-AUTO-02** | Test Automation | [12-Templates/09-Test-Automation/TEST_AUTOMATION_CI_PIPELINE.md](12-Templates/09-Test-Automation/TEST_AUTOMATION_CI_PIPELINE.md) | SDET Lead | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 09: Test Automation Architecture** |
+| **BLUEPRINT-METRIC-01** | Quality Advisory | [12-Templates/10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md](12-Templates/10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md) | QE Manager | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 10: QA Metrics & KPIs** |
+| **BLUEPRINT-METRIC-02** | Quality Advisory | [12-Templates/10-QA-Metrics-KPIs/RISK_ACCEPTANCE_RECORD_TEMPLATE.md](12-Templates/10-QA-Metrics-KPIs/RISK_ACCEPTANCE_RECORD_TEMPLATE.md) | QE Manager | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 10: QA Metrics & KPIs** |
+| **BLUEPRINT-GOV-01** | Agile Traceability | [12-Templates/11-Agile-ISTQB-Governance/ISTQB_AGILE_TRACEABILITY_MATRIX.md](12-Templates/11-Agile-ISTQB-Governance/ISTQB_AGILE_TRACEABILITY_MATRIX.md) | QA Governance | 1.0.0 | APPROVED | 2026-07-31 | **Chapter 11: Agile ISTQB Governance** |
 
 ### 12.3.2 Quality Artifacts Lifecycle Governance
 
@@ -132,36 +132,36 @@ graph TD
 
 ### 12.5.1 Universal Feature Test Strategy & Decision Blueprint
 
-> **Central Template:** [View FEATURE_TEST_STRATEGY_TEMPLATE.md](01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md)
+> **Central Template:** [View FEATURE_TEST_STRATEGY_TEMPLATE.md](12-Templates/01-Test-Strategy/FEATURE_TEST_STRATEGY_TEMPLATE.md)
 
 ### 12.5.2 Universal Defect Report & Impact Assessment Blueprint
 
-> **Central Template:** [View BUG_REPORT_TEMPLATE.md](03-Bug-Reports/BUG_REPORT_TEMPLATE.md)
+> **Central Template:** [View BUG_REPORT_TEMPLATE.md](12-Templates/03-Bug-Reports/BUG_REPORT_TEMPLATE.md)
 
 ### 12.5.3 Universal Quality Status Report & Release Advisory Blueprint
 
-> **Central Template:** [View QE_QUALITY_STATUS_REPORT_TEMPLATE.md](10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md)
+> **Central Template:** [View QE_QUALITY_STATUS_REPORT_TEMPLATE.md](12-Templates/10-QA-Metrics-KPIs/QE_QUALITY_STATUS_REPORT_TEMPLATE.md)
 
 ### 12.5.4 Test Data Management Plan Blueprint
 
-> **Central Template:** [View TEST_DATA_MANAGEMENT_PLAN.md](07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md)
+> **Central Template:** [View TEST_DATA_MANAGEMENT_PLAN.md](12-Templates/07-SQL-for-QA/TEST_DATA_MANAGEMENT_PLAN.md)
 
 ### 12.5.5 Exploratory Testing Charter Blueprint
 
-> **Central Template:** [View EXPLORATORY_TESTING_CHARTER.md](02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md)
+> **Central Template:** [View EXPLORATORY_TESTING_CHARTER.md](12-Templates/02-Test-Cases/EXPLORATORY_TESTING_CHARTER.md)
 
 ### 12.5.6 AI System Evaluation Report Blueprint
 
-> **Central Template:** [View AI_SYSTEM_EVALUATION_REPORT.md](06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md)
+> **Central Template:** [View AI_SYSTEM_EVALUATION_REPORT.md](12-Templates/06-AI-Testing/AI_SYSTEM_EVALUATION_REPORT.md)
 
 ## References
 
-- [01 - Test Strategy](01-Test-Strategy/01 - Test Strategy.md) (Definition of quality gates and risk prioritization).
-- [02 - Test Cases](02-Test-Cases/02 - Test Cases.md) (Creation standard and traceability of test scenarios).
-- [03 - Bug Reports](03-Bug-Reports/03 - Bug Reports.md) (Lifecycle, taxonomy, and severity matrix for failures).
-- [06 - AI Testing](06-AI-Testing/06 - AI Testing.md) (Quality metrics, hallucinations, and evaluation in artificial intelligence systems).
-- [07 - SQL for QA](07-SQL-for-QA/07 - SQL for QA.md) (Persistence validation and personal data masking).
-- [08 - Jira-Xray](08-Jira-Xray/08 - Jira-Xray.md) (ALM entities setup and traceability).
-- [09 - Test Automation](09-Test-Automation/09 - Test Automation.md) (Automation design patterns, POM, and fixtures).
-- [10 - QA Metrics - KPIs](10-QA-Metrics-KPIs/10 - QA Metrics - KPIs.md) (Mathematical formulations, thresholds, and Release Advisory governance).
-- [11 - Agile ISTQB Governance Standard](11-Agile-ISTQB-Governance/11 - Agile ISTQB Governance Standard.md) (Fundamental testing principles and agile traceability).
+- [01 - Test Strategy](01%20-%20Test%20Strategy.md) (Definition of quality gates and risk prioritization).
+- [02 - Test Cases](02%20-%20Test%20Cases.md) (Creation standard and traceability of test scenarios).
+- [03 - Bug Reports](03%20-%20Bug%20Reports.md) (Lifecycle, taxonomy, and severity matrix for failures).
+- [06 - AI Testing](06%20-%20AI%20Testing.md) (Quality metrics, hallucinations, and evaluation in artificial intelligence systems).
+- [07 - SQL for QA](07%20-%20SQL%20for%20QA.md) (Persistence validation and personal data masking).
+- [08 - Jira-Xray](08%20-%20Jira-Xray.md) (ALM entities setup and traceability).
+- [09 - Test Automation](09%20-%20Test%20Automation.md) (Automation design patterns, POM, and fixtures).
+- [10 - QA Metrics - KPIs](10%20-%20QA%20Metrics%20-%20KPIs.md) (Mathematical formulations, thresholds, and Release Advisory governance).
+- [11 - Agile ISTQB Governance Standard](11%20-%20Agile%20ISTQB%20Governance%20Standard.md) (Fundamental testing principles and agile traceability).
